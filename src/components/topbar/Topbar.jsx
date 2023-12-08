@@ -13,6 +13,7 @@ export default function Topbar() {
           <li className="toplistitem">Home</li>
           <li className="toplistitem">About</li>
           <li className="toplistitem">Contact</li>
+          <li className="toplistitem">Write</li>
           <li className="toplistitem">Login</li>
         </ul>
       </div>
